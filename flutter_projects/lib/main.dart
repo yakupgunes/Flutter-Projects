@@ -1,7 +1,7 @@
 // ignore_for_file: prefer_const_constructors, use_key_in_widget_constructors
 
 import 'package:flutter/material.dart';
-import 'package:flutter_projects/denemeler/week2/egg.dart';
+import 'package:flutter_projects/FirstExample/EggExamp/egg.dart';
 
 void main() => runApp(EggSeller());
 
