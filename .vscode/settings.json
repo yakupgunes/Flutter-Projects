@@ -1,0 +1,4 @@
+{
+    "cmake.sourceDirectory": "${workspaceFolder}/flutter_projects/linux",
+    "git.ignoreLimitWarning": true
+}
